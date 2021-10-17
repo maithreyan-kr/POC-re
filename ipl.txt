@@ -1,0 +1,10 @@
+1	1501	RCB	Maithreyan	
+2	1503	CSK	Arya	
+3	1501	RCB	Keerthana	
+4	1503	CSK	Rajkumar	
+5	1501	RCB	Dhiviya		
+6	1502	CSK	Samundeeshwari		
+7	1502	MI	Vishnu	
+8	1502	MI	Aarthi	
+9	1501	RCB	Virat Kohli	
+10	1502	MI	Sachin	
